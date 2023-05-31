@@ -13,8 +13,8 @@ view:
     center: [46.696222, 23.791958]
     zoom: 7
   haiti:
-    center: [-73.73, 19.25]
-    zoom: 5.34
+    center: [46.696222, 23.791958]
+    zoom: 5.5
 chapters: 
   - id: c1
     alignment: right
@@ -28,13 +28,15 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/great-lakes-region-ministerial-level-debate.php
     title: Topographical (Wadi Systems/channels)
     description: >
-      <p> The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.
-      These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Withaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km.  It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
-    location: متنزه مرات
+      <ul> Topographical (Wadi Systems/channels & plateau escarpments) </ul>
+      <ul> Biodiversity (Flora & Fauna)</ul>
+      <ul> Ecotourism Value (Existing and Proposed services/products)</ul>
+      The principal topographical features in Witheylan National Park landscape include the Wadi system habitats and the Tuwaiq mountain range escarpments. Biodiversity at these sections is diverse but  relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the  Witheylan National Park.    location: متنزه مرات
   - id: c3
     alignment: center
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
-    title: Haiti: Last Friday’s Vote on the UN Integrated Office in Haiti (BINUH) Mandate Renewal
+    title: Topographical (Wadi Systems/channels)
     description: >
-      On Friday (15 October), the Security Council unanimously adopted resolution 2600, renewing the mandate of the UN Integrated Office in Haiti (BINUH) for nine months, until 15 July 2022. Resolution 2600 also requests the Secretary-General to conduct an assessment of BINUH’s mandate within six months of the resolution’s adoption. The US, the penholder on Haiti, presented the draft jointly with Mexico, which has cooperated with the US on several Council products on Haiti this year.
-    location: haiti
+      <p> The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.
+      These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Withaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km.  It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
+    location: WutheilanLoc
