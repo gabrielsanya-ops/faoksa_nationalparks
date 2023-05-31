@@ -56,5 +56,19 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
     title: Topographical2 (plateau escarpments)
     description: >
-      <img src="FireDecetction.png" alt="Girl in a jacket" width="500" height="600" >
+      <p>Simple table with header</p>
+      <table>
+          <tr>
+            <th>First name</th>
+            <th>Last name</th>
+          </tr>
+          <tr>
+            <td>John</td>
+            <td>Doe</td>
+          </tr>
+          <tr>
+            <td>Jane</td>
+            <td>Doe</td>
+          </tr>
+        </table>
     location: WutheilanLoc2
