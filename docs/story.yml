@@ -22,6 +22,7 @@ chapters:
     title: Geographical Location
     description: >
       Witheylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).
+    image: './FireDecetction.png'
     location: WutheilanLoc
   - id: c2
     alignment: left
