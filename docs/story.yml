@@ -46,8 +46,8 @@ chapters:
             <p text-align: center>Wadi Systems/channels photos</p>
       <table>
           <tr>
-            <td colspan="1">Wadi Wuthlan 1</td>
-            <td colspan="2">Wadi Wuthlan 2</td>
+            <td colspan="1"><img src="Wuthlan_wadi1.png" alt="Wadi 1" width="300" height="300" ></td>
+            <td colspan="2"><img src="Wuthlan_wadi2.png" alt="Wadi 2" width="300" height="300" ></td>
           </tr>
           <tr>
             <td>Wadi 1</td>
