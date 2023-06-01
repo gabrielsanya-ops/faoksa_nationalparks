@@ -8,7 +8,7 @@ view:
 # you can pick the location information from https://optgeo.github.io/relief
   WutheilanLoc:
     center: [46.696222, 23.791958]
-    zoom: 7
+    zoom: 5
   متنزه مرات:
     center: [46.696222, 23.791958]
     zoom: 5.5
@@ -53,8 +53,8 @@ chapters:
             <th>Last name</th>
           </tr>
           <tr>
-            <td><img src="Wuthlan_wadi1.png" alt="Girl in a jacket" width="300" height="300" ></td>
-            <td><img src="Wuthlan_wadi2.png" alt="Girl in a jacket" width="300" height="300" ></td>
+            <td><img src="Wuthlan_wadi1.png" alt="Wuthlan_wadi1" width="300" height="300" ></td>
+            <td><img src="Wuthlan_wadi2.png" alt="Wuthlan_wadi2" width="300" height="300" ></td>
           </tr>
           <tr>
             <td>Wadi 1</td>
@@ -67,9 +67,11 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
     title: Topographical (plateau escarpments)
     description: >
-      <p> The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.
-      These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Withaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km.  It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
-      <table>
+      <p> Jabal Tuwaiq mountain ranges are narrow escarpments composed of sedimentary strata of the middle Jurassic limestone rocks. It runs from the southern borders of Al Qassim, intersects through the Najd plateau of central Arabia, to the northern edge of the Empty Quarter desert near wadi Ad-Dawasir. </p>
+      <p> On the western side, Jabal Tuwaiq plateau ends abruptly in cliffs of several hundreds meters high on Qiddiya, Huraymila, Thadiq and Al-Ghat with a succession of laminated rocks rich in organic matter. </p>
+      <p> Jabal Tuwaiq limestone escarpments are noticeably the main geological features within Withaylan National Park landscape. They run parallel along major wadis (valleys) and  bisect the Witheylan National Park into half with almost equal portions within the governorates of Al Dilam and Al Muhazimiyah.</p>
+      <p> Some of the bedrock material within the  National Park are formed from by transformations of mud, coral and other skeleton fossils  that were accumulated on the ocean floor. The plateaus sections within the are composed of a mosaic of rocks, sand dunes  and loose gravels.  The crystalline rocks are a reservoir for oil. In fact, as you traverse Witheylan National Park you will find routes to oil and gas exploratory fields. </p>
+        <table>
           <tr>
             <th> </th>
             <th> </th>
@@ -79,8 +81,8 @@ chapters:
             <td><img src="Wuthlan_wadi1.png" alt="Girl in a jacket" width="300" height="300" ></td>
           </tr>
           <tr>
-            <td>The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.</td>
-            <td><img src="FireDecetction.png" alt="Girl in a jacket" width="600" height="300" ></td>
+            <td></td>
+            <td></td>
           </tr>
         </table>
     location: WutheilanLoc2
