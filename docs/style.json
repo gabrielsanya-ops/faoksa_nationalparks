@@ -12,7 +12,7 @@
       "maxzoom": 5,
       "tileSize": 512,
       "tiles": [
-        "https://tile.openstreetmap.org/${z}/${x}/${y}.png"
+        "https://optgeo.github.io/relief/zxy/{z}/{x}/{y}.png"
       ]
     }
   },
