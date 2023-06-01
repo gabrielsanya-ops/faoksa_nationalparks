@@ -1,4 +1,4 @@
-style: ./style.json
+style: https://api.maptiler.com/maps/hybrid/256/{z}/{x}/{y}.jpg?key=is6uu1IXCDaUZzB3QYKQ
 title: Atlas for Saudi Arabia National Parks
 subtitle: <b>Kamerino, Steve and Gabriel Sanya</b>متنزه وثيلان الوطنى: Wuthaylan National Park
 byline: 2023
