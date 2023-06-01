@@ -8,7 +8,7 @@ view:
 # you can pick the location information from https://optgeo.github.io/relief
   WutheilanLoc:
     center: [46.696222, 23.791958]
-    zoom: 8
+    zoom: 6.5
   متنزه مرات:
     center: [46.696222, 23.791958]
     zoom: 7
@@ -21,8 +21,9 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Geographical Location
     description: >
-   
-   location: WutheilanLoc
+      Witheylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).
+    image: './FireDecetction.png'
+    location: WutheilanLoc
   - id: c2
     alignment: left
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/great-lakes-region-ministerial-level-debate.php
@@ -37,23 +38,9 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
     title: Topographical (Wadi Systems/channels)
     description: >
-      <p> The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.</p>
-      <p> These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. </p>
-      <p> The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Withaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. </p>
-      <p> The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km. It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
-      <div>
-            <p style="text-align:center;">Wadi Systems/channels photos</p>
-      <table>
-          <tr>
-            <td colspan="1"><img src="Wuthlan_wadi1.png" alt="Wadi 1" width="300" height="300" ></td>
-            <td colspan="2"><img src="Wuthlan_wadi2.png" alt="Wadi 2" width="300" height="300" ></td>
-          </tr>
-          <tr>
-            <td>Wadi 1</td>
-            <td><Wadi 2</td>
-          </tr>
-        </table>
-      </div>
+      <p> The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.
+      These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Withaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km.  It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
+      <div><span style="padding-right:3px; padding-top: 3px; display:inline-block;"><img src="FireDecetction.png" alt="Girl in a jacket" width="500" height="600" ></span></div>
     location: WutheilanLoc
   - id: c4
     alignment: center
