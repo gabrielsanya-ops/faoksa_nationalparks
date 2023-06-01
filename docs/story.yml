@@ -1,4 +1,4 @@
-style: ./style.json
+style: https://tile.openstreetmap.org/${z}/${x}/${y}.png
 title: Atlas for Saudi Arabia National Parks
 subtitle: متنزه وثيلان الوطنى: Wuthaylan National Park
 byline: 2023
