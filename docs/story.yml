@@ -11,7 +11,7 @@ view:
     zoom: 7
   متنزه مرات:
     center: [46.696222, 23.791958]
-    zoom: 7
+    zoom: 5.5
   WutheilanLoc2:
     center: [46.696222, 23.791958]
     zoom: 5.5
@@ -24,9 +24,9 @@ chapters:
       <p> Witheylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).</p>
       <p> The National Park was established on 7th May 2018 based on the Royal Decree No. 22435. The land of the National Park (approximately 58, 259ha) was demarcated in accordance with approval plans No. 11402 and 11714 of the earlier Al Kharj Governorate of Riyadh region. </p>
       <p> It was established to:
-       Conserve the natural resources of Witheylan ecosystem  for the benefit of present and future generations.
-       Promote nature-based and recreation tourism for the enjoyment of residents and international visitors.
-       Promote scientific research on best practices in conservation and sustainable management of national parks.</p>
+      <li> Conserve the natural resources of Witheylan ecosystem  for the benefit of present and future generations.</li>
+      <li> Promote nature-based and recreation tourism for the enjoyment of residents and international visitors.</li>
+      <li> Promote scientific research on best practices in conservation and sustainable management of national parks.</li></p>
     location: WutheilanLoc
   - id: c2
     alignment: left
@@ -36,7 +36,8 @@ chapters:
       <li> Topographical (Wadi Systems/channels & plateau escarpments) </li>
       <li> Biodiversity (Flora & Fauna)</li>
       <li> Ecotourism Value (Existing and Proposed services/products)</li>
-      The principal topographical features in Witheylan National Park landscape include the Wadi system habitats and the Tuwaiq mountain range escarpments. Biodiversity at these sections is diverse but  relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the  Witheylan National Park.    location: متنزه مرات
+      The principal topographical features in Witheylan National Park landscape include the Wadi system habitats and the Tuwaiq mountain range escarpments. Biodiversity at these sections is diverse but  relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the  Witheylan National Park.    
+    location: متنزه مرات
   - id: c3
     alignment: center
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
