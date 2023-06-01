@@ -46,12 +46,12 @@ chapters:
             <p>Wadi Systems/channels photos</p>
       <table>
           <tr>
-            <th>First name</th>
-            <th>Last name</th>
+            <th><img src="Wuthlan_wadi1.png" alt="Wadi Wuthlan" width="300" height="300" ></th>
+            <th><img src="Wuthlan_wadi2.png" alt="Wadi Wuthlan2" width="300" height="300" ></th>
           </tr>
           <tr>
-            <td><img src="Wuthlan_wadi1.png" alt="Girl in a jacket" width="600" height="300" ></td>
-            <td><img src="Wuthlan_wadi2.png" alt="Girl in a jacket" width="600" height="300" ></td>
+            <td>Wadi Wuthlan </td>
+            <td></td>
           </tr>
           <tr>
             <td>The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.</td>
