@@ -49,16 +49,16 @@ chapters:
       <p>Wadi Systems</p>
       <table>
           <tr>
-            <th>First name</th>
-            <th>Last name</th>
+            <th></th>
+            <th></th>
           </tr>
           <tr>
             <td><img src="Wuthlan_wadi1.png" alt="Wuthlan_wadi1" width="300" height="300" ></td>
             <td><img src="Wuthlan_wadi2.png" alt="Wuthlan_wadi2" width="300" height="300" ></td>
           </tr>
           <tr>
-            <td>Wadi 1</td>
-            <td>Wadi 2</td>
+            <td>Wadi channel in dry season</td>
+            <td>Wadi channel in wet season</td>
           </tr>
         </table>
     location: WutheilanLoc
