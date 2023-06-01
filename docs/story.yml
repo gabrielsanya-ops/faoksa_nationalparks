@@ -8,7 +8,7 @@ view:
 # you can pick the location information from https://optgeo.github.io/relief
   WutheilanLoc:
     center: [46.696222, 23.791958]
-    zoom: 6.5
+    zoom: 7
   متنزه مرات:
     center: [46.696222, 23.791958]
     zoom: 7
@@ -21,8 +21,12 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Geographical Location
     description: >
-      Witheylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).
-    image: './FireDecetction.png'
+      <p> Witheylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).</p>
+      <p> The National Park was established on 7th May 2018 based on the Royal Decree No. 22435. The land of the National Park (approximately 58, 259ha) was demarcated in accordance with approval plans No. 11402 and 11714 of the earlier Al Kharj Governorate of Riyadh region. </p>
+      <p> It was established to:
+       Conserve the natural resources of Witheylan ecosystem  for the benefit of present and future generations.
+       Promote nature-based and recreation tourism for the enjoyment of residents and international visitors.
+       Promote scientific research on best practices in conservation and sustainable management of national parks.</p>
     location: WutheilanLoc
   - id: c2
     alignment: left
