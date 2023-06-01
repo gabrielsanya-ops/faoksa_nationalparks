@@ -1,7 +1,7 @@
-style: 'https://api.maptiler.com/maps/hybrid/256/{z}/{x}/{y}.jpg?key=is6uu1IXCDaUZzB3QYKQ'
+style: https://api.maptiler.com/maps/hybrid/256/tiles.json?key=is6uu1IXCDaUZzB3QYKQ
 title: Atlas for Saudi Arabia National Parks
 subtitle: متنزه وثيلان الوطنى: Wuthaylan National Park
-  description: > tererer
+  description: > <img src="Wuthlan_wadi1.png" alt="Wuthlan_wadi1" width="300" height="300" >
 byline: 2023
 theme: light
 footer: <b>Kamerino, Steve and Gabriel Sanya</b>.
