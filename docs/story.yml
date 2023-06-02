@@ -1,4 +1,4 @@
-style: ./style.json
+style: http://localhost:3650/api/tiles/osm-2020-02-10-v3/tiles.json
 title: Atlas for Saudi Arabia National Parks
 subtitle: متنزه وثيلان الوطنى: Wuthaylan National Park
 byline: 2023
