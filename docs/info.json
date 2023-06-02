@@ -1,0 +1,26 @@
+{
+	"baseLayer": {
+		"tilejson": "2.2.0",
+		"name": "base",
+		"version": "1.0.0",
+		"scheme": "xyz",
+		"tiles": [
+			"https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"
+		]
+	},
+	"diffLayerLeftId": -1,
+	"diffLayerRightId": -1,
+	"shareGist": true,
+	"shareTileJSONLink": true,
+	"shareBase": false,
+	"shareDiff": false,
+	"defaultToDiff": false,
+	"center": [
+		1.862645149230957e-9,
+		16704.521956251003
+	],
+	"zoom": 2,
+	"currentBaseLayer": 0,
+	"title": "Natural Earth 2 Shaded Relief",
+	"description": "For use with the OSM Liberty style."
+}
