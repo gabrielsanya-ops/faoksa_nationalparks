@@ -11,7 +11,7 @@ view:
     zoom: 4
   متنزه مرات:
     center: [46.696222, 23.791958]
-    zoom: 12
+    zoom: 18
   WutheilanLoc2:
     center: [46.696222, 23.791958]
     zoom: 20
@@ -40,7 +40,7 @@ chapters:
       <p> Biodiversity at these sections is diverse but  relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the  Witheylan National Park.</p>    
     location: متنزه مرات
   - id: c3
-    alignment: center
+    alignment: left
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
     title: Topographical (Wadi Systems/channels)
     description: >
@@ -63,7 +63,7 @@ chapters:
         </table>
     location: WutheilanLoc
   - id: c4
-    alignment: center
+    alignment: right
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
     title: Topographical (plateau escarpments)
     description: >
