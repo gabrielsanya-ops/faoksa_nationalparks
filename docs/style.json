@@ -12,7 +12,7 @@
       "maxzoom": 5,
       "tileSize": 512,
       "tiles": [
-        "https://optgeo.github.io/relief/zxy/{z}/{x}/{y}.png"
+        "http://localhost:3650/api/maps/basic/{z}/{x}/{y}.jpg"
       ]
     }
   },
