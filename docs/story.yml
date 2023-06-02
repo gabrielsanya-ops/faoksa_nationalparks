@@ -1,4 +1,4 @@
-style: https://api.maptiler.com/maps/hybrid/256/tiles.json?
+style: ./style.json
 title: Atlas for Saudi Arabia National Parks
 subtitle: متنزه وثيلان الوطنى: Wuthaylan National Park
 byline: 2023
