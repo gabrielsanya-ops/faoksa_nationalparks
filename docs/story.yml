@@ -8,10 +8,10 @@ view:
 # you can pick the location information from https://optgeo.github.io/relief
   WutheilanLoc:
     center: [46.696222, 23.791958]
-    zoom: 5
+    zoom: 7
   متنزه مرات:
     center: [46.696222, 23.791958]
-    zoom: 7
+    zoom: 8
   WutheilanLoc2:
     center: [46.696222, 23.791958]
     zoom: 9
