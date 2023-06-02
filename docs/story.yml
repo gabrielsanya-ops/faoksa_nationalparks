@@ -11,10 +11,17 @@ view:
     zoom: 4
   متنزه مرات:
     center: [46.696222, 23.791958]
-    zoom: 15
+    zoom: 7
   WutheilanLoc2:
     center: [46.696222, 23.791958]
-    zoom: 14
+    zoom: 9
+  WutheilanLoc3:
+    center: [46.696222, 23.791958]
+    zoom: 10
+  WutheilanLoc4:
+    center: [46.696222, 23.791958]
+    zoom: 11
+    
 chapters: 
   - id: c1
     alignment: right
@@ -93,7 +100,7 @@ chapters:
             <td></td>
           </tr>          
         </table>
-    location: WutheilanLoc2
+    location: WutheilanLoc3
   - id: c5
     alignment: left
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
@@ -117,4 +124,4 @@ chapters:
             <td></td>
           </tr>
         </table>
-    location: WutheilanLoc2
+    location: WutheilanLoc4
