@@ -116,7 +116,7 @@ chapters:
             <th> </th>
           </tr>
           <tr>
-            <td><a href="Saudi ArabiasSixFlagsPark.mp4" width="300" height="240" autoplay</a></td>
+            <td><video src="Saudi ArabiasSixFlagsPark.mp4" width="300" height="240" autoplay></td>
             <td><img src="Jabal Tuwaiq plateau.png" alt="Jabal Tuwaiq plateau" width="300" height="300" ></td>
           </tr>
           <tr>
