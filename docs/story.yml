@@ -7,7 +7,7 @@ footer: <b> Prepared by Steve Kamerino and Gabriel Sanya</b>.
 view:
 # you can pick the location information from https://optgeo.github.io/relief
   WutheilanRiyadh:
-    center: [46.696543, 24.384796]
+    center: [47.092260, 24.194438]
     zoom: 8
   متنزه مرات:
     center: [46.696222, 23.791958]
