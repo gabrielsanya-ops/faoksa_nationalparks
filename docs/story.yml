@@ -6,9 +6,9 @@ theme: light
 footer: <b>Kamerino, Steve and Gabriel Sanya</b>.
 view:
 # you can pick the location information from https://optgeo.github.io/relief
-  WutheilanLoc:
-    center: [46.696222, 23.791958]
-    zoom: 7.5
+  WutheilanRiyadh:
+    center: [46.715061, 24.228690]
+    zoom: 
   متنزه مرات:
     center: [46.696222, 23.791958]
     zoom: 8
@@ -28,13 +28,13 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Geographical Location
     description: >
-      <p> Witheylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).</p>
+      <p> Wuthaylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).</p>
       <p> The National Park was established on 7th May 2018 based on the Royal Decree No. 22435. The land of the National Park (approximately 58, 259ha) was demarcated in accordance with approval plans No. 11402 and 11714 of the earlier Al Kharj Governorate of Riyadh region. </p>
           It was established to:
-      <li> Conserve the natural resources of Witheylan ecosystem  for the benefit of present and future generations.</li>
+      <li> Conserve the natural resources of Wuthaylan ecosystem  for the benefit of present and future generations.</li>
       <li> Promote nature-based and recreation tourism for the enjoyment of residents and international visitors.</li>
       <li> Promote scientific research on best practices in conservation and sustainable management of national parks.</li>
-    location: WutheilanLoc
+    location: WutheilanRiyadh
   - id: c2
     alignment: left
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/great-lakes-region-ministerial-level-debate.php
@@ -43,8 +43,8 @@ chapters:
       <li><b> Topographical (Wadi Systems/channels & plateau escarpments) </b></li>
       <li><b> Biodiversity (Flora & Fauna)</b></li>
       <li><b> Ecotourism Value (Existing and Proposed services/products)</b></li>
-      <p> The principal topographical features in Witheylan National Park landscape include the Wadi system habitats and the Tuwaiq mountain range escarpments.</p> 
-      <p> Biodiversity at these sections is diverse but  relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the  Witheylan National Park.</p>    
+      <p> The principal topographical features in Wuthaylan National Park landscape include the Wadi system habitats and the Tuwaiq mountain range escarpments.</p> 
+      <p> Biodiversity at these sections is diverse but  relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the Wuthaylan National Park.</p>    
     location: متنزه مرات
   - id: c3
     alignment: left
@@ -52,19 +52,22 @@ chapters:
     title: Topographical (Wadi Systems/channels)
     description: >
       <p> The wadi channels are dry dominated by sand and gravels except in rainy seasons in winter when sporadic rainfall sinks into the porous wadi beds to recharge and form sub flows and run offs.
-      These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Withaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km.  It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
+      These wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This creates contrast to the hyper-aridity of the wider area of the Najd plateau in central Arabia. The principal water course in the National Park is Wadi Wuthaylan. It appears originates from several branches on Jabal Tuwaiq escarpments on the western side of Wuthaylan National Park within Al Muzahimiya governorate and drains in South Easterly direction towards the Park entrance on the side of Al Dilam governorate. The drainage basin of Wadi Wuthaylan valley cuts through the central portion of the Park running from west to east for approximately 70km.  It is joined by the valleys of Wadi Mawan from Northeast. The convergence of these wadis cumulatively with their numerous tributaries which drain off  into  Wadi As Sawat  that flows towards Al Dilam city. </p>
       <p>Wadi Systems</p>
       <table>
           <tr>
-            <th></th>
-            <th></th>
+          <th></th>
           </tr>
           <tr>
             <td><img src="Wuthlan_wadi1.png" alt="Wuthlan_wadi1" width="300" height="300" ></td>
-            <td><img src="Wuthlan_wadi2.png" alt="Wuthlan_wadi2" width="300" height="300" ></td>
           </tr>
           <tr>
             <td>Wadi channel in dry season</td>
+          </tr>
+          <tr>
+            <td><img src="Wuthlan_wadi2.png" alt="Wuthlan_wadi2" width="300" height="300" ></td>
+          </tr>
+            <tr>
             <td>Wadi channel in wet season</td>
           </tr>
         </table>
@@ -76,7 +79,7 @@ chapters:
     description: >
       <p> Jabal Tuwaiq mountain ranges are narrow escarpments composed of sedimentary strata of the middle Jurassic limestone rocks. It runs from the southern borders of Al Qassim, intersects through the Najd plateau of central Arabia, to the northern edge of the Empty Quarter desert near wadi Ad-Dawasir. </p>
       <p> On the western side, Jabal Tuwaiq plateau ends abruptly in cliffs of several hundreds meters high on Qiddiya, Huraymila, Thadiq and Al-Ghat with a succession of laminated rocks rich in organic matter. </p>
-      <p> Jabal Tuwaiq limestone escarpments are noticeably the main geological features within Withaylan National Park landscape. They run parallel along major wadis (valleys) and  bisect the Witheylan National Park into half with almost equal portions within the governorates of Al Dilam and Al Muhazimiyah.</p>
+      <p> Jabal Tuwaiq limestone escarpments are noticeably the main geological features within Wuthaylan National Park landscape. They run parallel along major wadis (valleys) and  bisect the Wuthaylan National Park into half with almost equal portions within the governorates of Al Dilam and Al Muhazimiyah.</p>
       <p> Some of the bedrock material within the  National Park are formed from by transformations of mud, coral and other skeleton fossils  that were accumulated on the ocean floor. The plateaus sections within the are composed of a mosaic of rocks, sand dunes  and loose gravels.  The crystalline rocks are a reservoir for oil. In fact, as you traverse Witheylan National Park you will find routes to oil and gas exploratory fields. </p>
         <table>
           <tr>
@@ -108,7 +111,7 @@ chapters:
     description: >
       <p> Jabal Tuwaiq mountain ranges are narrow escarpments composed of sedimentary strata of the middle Jurassic limestone rocks. It runs from the southern borders of Al Qassim, intersects through the Najd plateau of central Arabia, to the northern edge of the Empty Quarter desert near wadi Ad-Dawasir. </p>
       <p> On the western side, Jabal Tuwaiq plateau ends abruptly in cliffs of several hundreds meters high on Qiddiya, Huraymila, Thadiq and Al-Ghat with a succession of laminated rocks rich in organic matter. </p>
-      <p> Jabal Tuwaiq limestone escarpments are noticeably the main geological features within Withaylan National Park landscape. They run parallel along major wadis (valleys) and  bisect the Witheylan National Park into half with almost equal portions within the governorates of Al Dilam and Al Muhazimiyah.</p>
+      <p> Jabal Tuwaiq limestone escarpments are noticeably the main geological features within Wuthaylan National Park landscape. They run parallel along major wadis (valleys) and  bisect the Wuthaylan National Park into half with almost equal portions within the governorates of Al Dilam and Al Muhazimiyah.</p>
       <p> Some of the bedrock material within the  National Park are formed from by transformations of mud, coral and other skeleton fossils  that were accumulated on the ocean floor. The plateaus sections within the are composed of a mosaic of rocks, sand dunes  and loose gravels.  The crystalline rocks are a reservoir for oil. In fact, as you traverse Witheylan National Park you will find routes to oil and gas exploratory fields. </p>
         <table>
           <tr>
