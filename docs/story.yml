@@ -115,7 +115,13 @@ chapters:
             <th> </th>
           </tr>
           <tr>
-            <td><video src="Saudi ArabiasSixFlagsPark.mp4" width="500" height="500" autoplay ></video></td>
+            <td>
+            <video controls width="250">
+            <source src="/media/cc0-videos/flower.mp4" type="video/mp4">
+            <a href="/media/cc0-videos/flower.mp4">MP4</a>
+            </video>
+
+            </td>
           </tr>
           <tr>
             <td>Saudi Arabias Six Flags Park</td>
