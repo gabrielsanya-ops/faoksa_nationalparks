@@ -129,8 +129,8 @@ chapters:
             <td>Jabal Tuwaiq mountain ranges</td>
           </tr>
        </table>
-    location: WutheilanLoc4
-      - id: c6
+    location: WutheilanLoc4 
+- id: c6
     alignment: right
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
     title: Fauna diversity in Wutheylan National Park
