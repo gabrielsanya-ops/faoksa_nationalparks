@@ -151,7 +151,96 @@ chapters:
       <p> The plateau sections have relatively low vegetation cover with higher amounts of bare soils (mainly clay-loamy soils) and stony limestones slab surfaces. Although they are the most ecologically disturbed habitats within the national park, they are characterized by high flora diversity than at  the wadi channels. This could be due to the varied micro-climates and heterogeneity of the soil substrates at the plateau summits to support botanically diverse flora. Rhanterium epaposum and Stipagrostis obtusa are the dominant plant community that colonize the plateau sections of Wuthaylan National Park. </p>
       <p> The hygrophilous vegetation  community occur in very restricted spaces in the Witheylan National Park landscape. They colonize ecological niches such as those in permanent water source areas  of Ain Masla and Kidera springs. </p>
       <p> Overall, about 48 plant species were recorded with varied vegetation types: 6 trees, 10 shrubs and  32 herbaceous plant communities. They belong to 22 different botanical families.  </p>
+            <p><b> Common Birds in Wuthaylan National Park </b></p>
       <table>
+          <tr>
+              <td>Common Name</td>
+              <td>Scientific Name</td>
+              <td>Status in the IUCN Red List of Threatened Species</td>
+          </tr>
+          <tr>
+              <td>Sand partridge</td>
+              <td>Ammoperdix heyi</td>
+              <td>Least Concern (LC).</td>
+          </tr>
+          <tr>
+              <td>European Turtle-dove</td>
+              <td>Streptopelia turtur</td>
+              <td>Vulnerable (VU)</td>
+          </tr>
+          <tr>
+              <td>Desert Tawny owl</td>
+              <td>Strix hadorami</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Eurasian collared dove</td>
+              <td>Streptopelia decaocto</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Rock dove</td>
+              <td>Columba livia</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>White-eared bulbul</td>
+              <td>Pycnonotus leucotis</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>White-spectacled bulbul</td>
+              <td>Pycnonotus xanthopygos</td>
+              <td>Least Concern (LU</td>
+          </tr>
+          <tr>
+              <td>Arabian babbler</td>
+              <td>Arygya squamiceps</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>African collared dove</td>
+              <td>Streptopelia roseogrisea</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Omani Owl</td>
+              <td>Strix butleri</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Brown -necked raven</td>
+              <td>Corvus ruficolis</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Crowned sandgrouse</td>
+              <td>Pterocles coronatus</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Laughing dove</td>
+              <td>Spilopelia senegalensis</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+          <tr>
+              <td>Short-toed snake eagle</td>
+              <td>Circaetus gallicus</td>
+              <td>Least Concern (LU)</td>
+          </tr>
+       </table>
+       <table>
+          <tr>
+          <th></th>
+          </tr>
+          <tr>
+            <td><img src="Vegetation Diversity.png" alt="Vegetation Diversity" width="300" height="300" ></td>
+          </tr>
+          <tr>
+            <td>Jabal Tuwaiq mountain ranges</td>
+          </tr>
+       </table>
+       <table>
           <tr>
           <th></th>
           </tr>
@@ -162,5 +251,6 @@ chapters:
             <td>Birdss</td>
           </tr>
        </table>
+       
     location: WutheilanLoc5 
 
