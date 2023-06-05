@@ -21,7 +21,9 @@ view:
   WutheilanLoc4:
     center: [46.696222, 23.791958]
     zoom: 9.5
-   
+  WutheilanLoc5:
+    center: [46.696222, 23.791958]
+    zoom: 9.5   
 chapters: 
   - id: c1
     alignment: right
@@ -144,4 +146,4 @@ chapters:
           </tr>
        </table>
      
-    location: WutheilanLoc4
+    location: WutheilanLoc5
