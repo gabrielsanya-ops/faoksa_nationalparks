@@ -21,7 +21,7 @@ view:
   WutheilanLoc4:
     center: [46.696222, 23.791958]
     zoom: 10
-    
+   
 chapters: 
   - id: c1
     alignment: right
@@ -96,31 +96,33 @@ chapters:
             <tr>
             <td>Jabal Tuwaiq limestone</td>
           </tr>
-        </table>
+       </table>
     location: WutheilanLoc3
   - id: c5
     alignment: left
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/haiti-last-fridays-vote-on-the-un-integrated-office-in-haiti-binuh-mandate-renewal.php
-    title: Topographical2 (plateau escarpments)
+    title: Vegetation Diversity in Wuthaylan National Park
     description: >
-      <p> Jabal Tuwaiq mountain ranges are narrow escarpments composed of sedimentary strata of the middle Jurassic limestone rocks. It runs from the southern borders of Al Qassim, intersects through the Najd plateau of central Arabia, to the northern edge of the Empty Quarter desert near wadi Ad-Dawasir. </p>
-      <p> On the western side, Jabal Tuwaiq plateau ends abruptly in cliffs of several hundreds meters high on Qiddiya, Huraymila, Thadiq and Al-Ghat with a succession of laminated rocks rich in organic matter. </p>
-      <p> Jabal Tuwaiq limestone escarpments are noticeably the main geological features within Wuthaylan National Park landscape. They run parallel along major wadis (valleys) and  bisect the Wuthaylan National Park into half with almost equal portions within the governorates of Al Dilam and Al Muhazimiyah.</p>
-      <p> Some of the bedrock material within the  National Park are formed from by transformations of mud, coral and other skeleton fossils  that were accumulated on the ocean floor. The plateaus sections within the are composed of a mosaic of rocks, sand dunes  and loose gravels.  The crystalline rocks are a reservoir for oil. In fact, as you traverse Witheylan National Park you will find routes to oil and gas exploratory fields. </p>
-        <table>
+      <p> The different habitats within the Withaylan National Park have slight variations in the ecological conditions, soil moisture content and soil type. These variations promote botanical diversity within the National Park, as different plant species are adapted to different sub-habitats. </p>
+      <p> The wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This is expected since the wadi channels function as sponges that trap surface water during rainy seasons and slowly release it to trees, shrubs and other herbaceous vegetations along the channels. They form ecologically diverse and productive edge habitats with higher soil moisture contents. Acacia tortilis, Lycium shawii and Heliotropium crispum are most dominant vegetation community in Witheylan National Park.  Acacia tortilis is determined as the key stone vegetation species in the National Park. </p>
+      <p> The plateau sections have relatively low vegetation cover with higher amounts of bare soils (mainly clay-loamy soils) and stony limestones slab surfaces. Although they are the most ecologically disturbed habitats within the national park, they are characterized by  high flora diversity than at  the wadi channels. This could be due to the varied micro-climates and heterogeneity of the soil substrates at the plateau summits to support botanically diverse flora. Rhanterium epaposum and Stipagrostis obtusa are the dominant plant community that colonize the plateau sections of Wuthaylan National Park. </p>
+      <p> The hygrophilous vegetation  community occur in very restricted spaces in the Witheylan National Park landscape. They colonize ecological niches such as those in permanent water source areas  of Ain Masla and Kidera springs. </p>
+      <p> Overall, about 48 plant species were recorded with varied vegetation types: 6 trees, 10 shrubs and  32 herbaceous plant communities. They belong to 22 different botanical families.  </p>
+      <table>
           <tr>
-            <th> </th>
+          <th></th>
           </tr>
           <tr>
-            <td>
-            <video controls width="500">
-            <source src="Saudi ArabiasSixFlagsPark.mp4" type="video/mp4">
-            <a href="Saudi ArabiasSixFlagsPark.mp4">MP4</a>
-            </video>
-            </td>
+            <td><img src="Jabal Tuwaiq mountain ranges.png" alt="Jabal Tuwaiq mountain ranges" width="300" height="300" ></td>
           </tr>
           <tr>
-            <td>Saudi Arabias Six Flags Park</td>
+            <td>Jabal Tuwaiq mountain ranges</td>
           </tr>
-        </table>
+          <tr>
+            <td><img src="Jabal Tuwaiq limestone.png" alt="Jabal Tuwaiq limestone" width="300" height="300" ></td>
+          </tr>
+            <tr>
+            <td>Jabal Tuwaiq limestone</td>
+          </tr>
+       </table>
     location: WutheilanLoc4
