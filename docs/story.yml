@@ -152,11 +152,24 @@ chapters:
       <p> The hygrophilous vegetation  community occur in very restricted spaces in the Witheylan National Park landscape. They colonize ecological niches such as those in permanent water source areas  of Ain Masla and Kidera springs. </p>
       <p> Overall, about 48 plant species were recorded with varied vegetation types: 6 trees, 10 shrubs and  32 herbaceous plant communities. They belong to 22 different botanical families.  </p>
             <p><b> Common Birds in Wuthaylan National Park </b></p>
+      <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td,
+        th {
+            border: 1px solid #000000;
+            text-align: left;
+            padding: 8px;
+        }
+      </style>
       <table>
           <tr>
-              <td>Common Name</td>
-              <td>Scientific Name</td>
-              <td>Status in the IUCN Red List of Threatened Species</td>
+              <th>Common Name</th>
+              <th>Scientific Name</th>
+              <th>Status in the IUCN Red List of Threatened Species</th>
           </tr>
           <tr>
               <td>Sand partridge</td>
