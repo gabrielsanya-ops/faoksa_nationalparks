@@ -23,7 +23,8 @@ view:
     zoom: 9.5
   WutheilanLoc5:
     center: [46.948637, 23.754763]
-    zoom: 11   
+    zoom: 10
+    
 chapters: 
   - id: c1
     alignment: right
