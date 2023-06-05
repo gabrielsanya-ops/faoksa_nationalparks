@@ -22,8 +22,8 @@ view:
     center: [46.696222, 23.791958]
     zoom: 9.5
   WutheilanLoc5:
-    center: [46.696222, 23.791958]
-    zoom: 9.5   
+    center: [46.948637, 23.754763]
+    zoom: 11   
 chapters: 
   - id: c1
     alignment: right
@@ -241,6 +241,5 @@ chapters:
             <td>Birds</td>
           </tr>
        </table>
-       
     location: WutheilanLoc5 
 
