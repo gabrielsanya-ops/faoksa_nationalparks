@@ -10,11 +10,8 @@ view:
   WutheilanRiyadh:
     center: [47.123938, 24.279142]
     zoom: 7.5
-  متنزه مرات:
-    center: [46.696222, 23.791958]
-    zoom: 8
   WutheilanLoc2:
-    center: [46.696222, 23.791958]
+    center: [46.319694, 23.830319]
     zoom: 9
   WutheilanLoc3:
     center: [46.948637, 23.754763]
@@ -40,7 +37,15 @@ chapters:
       <li> Promote scientific research on best practices in conservation and sustainable management of national parks.</li>
       <p><b> Topographical Features </b></p>
       <p> The principal topographical features in Wuthaylan National Park landscape include the Wadi system habitats and the Tuwaiq mountain range escarpments.</p> 
-      <p> Biodiversity at these sections is diverse but relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the Wuthaylan National Park.</p>   
+      <p> Biodiversity at these sections is diverse but relatively limited since they contain some of the most ecologically disturbed habitats. Therefore, more protection is needed to provide conducive environment for biodiversity to recolonize  the wider areas of the Wuthaylan National Park.</p>
+      <table>
+          <tr>
+            <td><img src="SatelliteImage.png" alt="SatelliteImage" width="300" height="150" ></td>
+          </tr>
+          <tr>
+            <td>SatelliteImage</td>
+          </tr>
+       </table>
     location: WutheilanRiyadh
   - id: c2
     alignment: left
@@ -95,14 +100,6 @@ chapters:
     description: >
       <p> The different habitats within the Withaylan National Park have slight variations in the ecological conditions, soil moisture content and soil type. These variations promote botanical diversity within the National Park, as different plant species are adapted to different sub-habitats. </p>
       <p> The wadis form a network of attractive  reasonably well  vegetated community of ground flora stands inhabiting the main wadi channels. This is expected since the wadi channels function as sponges that trap surface water during rainy seasons and slowly release it to trees, shrubs and other herbaceous vegetations along the channels. They form ecologically diverse and productive edge habitats with higher soil moisture contents. Acacia tortilis, Lycium shawii and Heliotropium crispum are most dominant vegetation community in Witheylan National Park. Acacia tortilis is determined as the key stone vegetation species in the National Park. </p>
-      <table>
-          <tr>
-            <td><img src="SatelliteImage.png" alt="SatelliteImage" width="300" height="150" ></td>
-          </tr>
-          <tr>
-            <td>SatelliteImage</td>
-          </tr>
-       </table>
       <p> The plateau sections have relatively low vegetation cover with higher amounts of bare soils (mainly clay-loamy soils) and stony limestones slab surfaces. Although they are the most ecologically disturbed habitats within the national park, they are characterized by high flora diversity than at  the wadi channels. This could be due to the varied micro-climates and heterogeneity of the soil substrates at the plateau summits to support botanically diverse flora. Rhanterium epaposum and Stipagrostis obtusa are the dominant plant community that colonize the plateau sections of Wuthaylan National Park. </p>
       <p> The hygrophilous vegetation  community occur in very restricted spaces in the Witheylan National Park landscape. They colonize ecological niches such as those in permanent water source areas  of Ain Masla and Kidera springs. </p>
       <p> Overall, about 48 plant species were recorded with varied vegetation types: 6 trees, 10 shrubs and  32 herbaceous plant communities. They belong to 22 different botanical families.  </p>
@@ -111,7 +108,7 @@ chapters:
             <td><img src="Vegetation Diversity.png" alt="Vegetation Diversity" width="300" height="300" ></td>
           </tr>
           <tr>
-            <td>Jabal Tuwaiq mountain ranges</td>
+            <td>Vegetation Diversity</td>
           </tr>
        </table>
     location: WutheilanLoc4 
