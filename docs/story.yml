@@ -9,7 +9,7 @@ view:
 # you can pick the location information from https://optgeo.github.io/relief
   WutheilanRiyadh:
     center: [47.123938, 24.279142]
-    zoom: 8
+    zoom: 7.5
   متنزه مرات:
     center: [46.696222, 23.791958]
     zoom: 8
