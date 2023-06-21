@@ -29,6 +29,18 @@ chapters:
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Flythrough
     description: >
+       <table>
+          <tr>
+            <th> </th>
+          </tr>
+          <tr>
+            <td><video src="Saudi ArabiasSixFlagsPark.mp4" width="500" height="500" autoplay muted></video></td>
+          </tr>
+          <tr>
+            <td>Saudi Arabias Six Flags Park</td>
+          </tr>
+        </table>
+
     location: WutheilanRiyadh
   - id: c2
     alignment: right
