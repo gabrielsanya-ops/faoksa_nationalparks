@@ -25,7 +25,7 @@ view:
     
 chapters:
   - id: c1
-    alignment: right
+    alignment: center
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Flythrough
     description: >
@@ -34,7 +34,7 @@ chapters:
             <th> </th>
           </tr>
           <tr>
-            <td><video src="WuthylanNP.mp4" width="500" height="500" autoplay muted></video></td>
+            <td><video src="WuthylanNP.mp4" width="600" height="600" autoplay muted></video></td>
           </tr>
           <tr>
             <td>Saudi Arabias Six Flags Park</td>
