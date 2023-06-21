@@ -23,7 +23,13 @@ view:
     center: [46.948637, 23.754763]
     zoom: 10
     
-chapters: 
+chapters:
+  - id: c1
+    alignment: right
+    url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
+    title: Geographical Location
+    description: >
+    location: WutheilanRiyadh
   - id: c2
     alignment: right
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
