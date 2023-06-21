@@ -24,7 +24,7 @@ view:
     zoom: 10
     
 chapters: 
- - id: c1
+  - id: c1
     alignment: right
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Geographical Location
@@ -37,7 +37,7 @@ chapters:
       <li> Promote scientific research on best practices in conservation and sustainable management of national parks.</li>
       <p><b> Topographical Features </b></p>
     location: WutheilanRiyadh
- - id: c2
+  - id: c2
     alignment: right
     url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
     title: Geographical Location
