@@ -18,7 +18,7 @@ a, a:hover, a: visited { color: #0071bc; }
 .lefty { width: 37vw; margin-left: 5vw; }
 .righty { width: 37vw; margin-left: 62vw; }
 .fully { width: 100%; margin: auto; }
-.light { color: #333333; background-color: #f2f2f2; }
+.light { color: #333333; background-color: #DDD4D2; }
 .dark { color: #fafafa; background-color: #444; }
 .step { padding-bottom: 50vh; opacity: 0.25; }
 .step.active { opacity: 0.9 }
