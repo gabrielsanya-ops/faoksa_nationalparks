@@ -26,7 +26,7 @@ view:
 chapters:
   - id: c1
     alignment: center
-    url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
+    url: 
     title: Flythrough
     description: >
        <table>
@@ -41,7 +41,7 @@ chapters:
     location: WutheilanRiyadh
   - id: c2
     alignment: right
-    url: https://www.securitycouncilreport.org/whatsinblue/2021/10/central-african-republic-briefing-and-consultations-7.php
+    url: 
     title: Geographical Location
     description: >
       <p> Wuthaylan National Park is approximately 120km south of Riyadh city. It is located at XY coordinates 687288.89 and 2638812.89, respectively.  It is bordered by 4 governorates as follows (see tha map on the left): Al Hariq (Southwest), Howtat Bani Tamim (Southeast), Al Dilam (Northeast) and Al Muzahimiya (Northwest).</p>
