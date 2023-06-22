@@ -14,7 +14,7 @@ a, a:hover, a: visited { color: #0071bc; }
   padding-top: 5vh; padding-bottom: 5vh;
 }
 .hidden { visibility: hidden; }
-.centered { width: 50vw; margin: 0 auto; }
+.centered { width: 55vw; margin: 0 auto; }
 .lefty { width: 37vw; margin-left: 5vw; }
 .righty { width: 37vw; margin-left: 62vw; }
 .fully { width: 100%; margin: auto; }
